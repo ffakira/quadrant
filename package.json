@@ -1,7 +1,6 @@
 {
-  "name": "quadrant",
-  "version": "1.0.0",
-  "main": "truffle-config.js",
+  "name": "@photons/contracts",
+  "version": "0.0.1",
   "directories": {
     "test": "test"
   },
@@ -13,9 +12,14 @@
   },
   "keywords": [],
   "author": "ffakira",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "description": "A curated list of open-source solidity smart contracts",
-  "dependencies": {
-    "truffle": "^5.4.10"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffakira/quadrant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ffakira/quadrant/issues"
+  },
+  "homepage": "https://github.com/ffakira/quadrant#readme"
 }

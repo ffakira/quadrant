@@ -1,0 +1,20 @@
+{
+    "name": "@photons/contracts",
+    "version": "0.0.1",
+    "directories": {
+      "test": "test"
+    },
+
+    "keywords": ["solidity", "ethereum", "smart", "contracts"],
+    "author": "ffakira",
+    "license": "UNLICENSED",
+    "description": "A curated list of open-source solidity smart contracts",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ffakira/quadrant.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ffakira/quadrant/issues"
+    },
+    "homepage": "https://github.com/ffakira/quadrant#readme"
+}
