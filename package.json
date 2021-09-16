@@ -1,0 +1,21 @@
+{
+  "name": "quadrant",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "ffakira",
+  "license": "ISC",
+  "description": "A curated list of open-source solidity smart contracts",
+  "dependencies": {
+    "truffle": "^5.4.10"
+  }
+}
